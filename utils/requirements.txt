@@ -1,0 +1,13 @@
+langgraph[all]
+langchain
+langchain-core
+langchain-openai
+langchain_community
+pydrive2
+PyMuPDF
+python-dotenv
+supabase
+openai
+tiktoken
+fastapi
+uvicorn
